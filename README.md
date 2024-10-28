@@ -68,4 +68,3 @@
 | <img src ="https://github.com/user-attachments/assets/a9103cfd-e9da-4fb0-829d-89cb21dc1e8d" width="230" height="380" /> | <img src ="https://github.com/user-attachments/assets/a1266082-1826-4e82-bbc3-4597291191d3" width="230" height="380"/> | <img src="https://github.com/user-attachments/assets/c9fb2374-a102-4f38-b70b-48de7ecac3a3" width="230" height="380" />
 | **카테고리** | **프로필 수정** | **패스워드 변경** |
 | <img src ="https://github.com/user-attachments/assets/41f3ee45-15c0-4211-b8bb-bbc6ff46d4ee" width="230" height="380" /> | <img src ="https://github.com/user-attachments/assets/c521483e-68db-4054-9125-2eb4030d1854" width="230" height="380"/> | <img src="https://github.com/user-attachments/assets/262bbaaf-77a6-4ccc-89e7-e266e4de35ce" width="230" height="380" />
-
